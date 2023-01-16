@@ -49,8 +49,7 @@ const Invoice = () => {
       <table>
         <thead>
           <tr>
-            <th>Name</th>
-            <th>Price</th>
+            <th>Name</th>x<th>Price</th>
             <th>Action</th>
           </tr>
         </thead>
